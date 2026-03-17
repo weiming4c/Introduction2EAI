@@ -1,0 +1,8 @@
+# 忽略 Slides 文件夹
+Slides/
+
+# 忽略 Jupyter 的缓存文件
+.ipynb_checkpoints
+__pycache__/
+*.pyc
+.DS_Store
